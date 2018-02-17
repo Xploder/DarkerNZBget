@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
 body {
-background-color: #272727 !important;
-background-image: url("https://i.imgur.com/TYh5E3n.png");
+background-color: #272727 !important; 
+/* background-image: url("https://i.imgur.com/TYh5E3n.png"); */
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: top;
